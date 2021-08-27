@@ -15,6 +15,10 @@ body {
     position: relative;
 }
 
+header {
+    margin: 10px 0px 20px 20px;
+}
+
 footer {
     position: absolute;
     bottom: 0;
