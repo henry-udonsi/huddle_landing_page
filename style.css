@@ -16,7 +16,7 @@ body {
 }
 
 header {
-    margin: 10px 0px 20px 50px;
+    padding: 10px 0px 20px 50px;
 }
 
 footer {
@@ -27,5 +27,13 @@ footer {
 }
 
 .fab {
+    padding: 10px;
+    width: 35px;
+    height: 35px;
+    font-size: 15px;
     color: white;
+    border: 1px solid white;
+    border-radius: 50%;
+    text-decoration: none;
+    text-align: center;
 }
